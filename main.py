@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from scipy import optimize
+import scipy.optimize
 import scipy.misc
 import scipy.signal
 
